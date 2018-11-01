@@ -1,0 +1,10 @@
+C:\Users\kavya\source\repos\New folder\PropertyRentalSystemService\PropertyRentalService\bin\PropertyRentalService.dll.config
+C:\Users\kavya\source\repos\New folder\PropertyRentalSystemService\PropertyRentalService\bin\PropertyRentalService.dll
+C:\Users\kavya\source\repos\New folder\PropertyRentalSystemService\PropertyRentalService\bin\PropertyRentalService.pdb
+C:\Users\kavya\source\repos\New folder\PropertyRentalSystemService\PropertyRentalService\bin\MySql.Data.dll
+C:\Users\kavya\source\repos\New folder\PropertyRentalSystemService\PropertyRentalService\bin\Google.Protobuf.dll
+C:\Users\kavya\source\repos\New folder\PropertyRentalSystemService\PropertyRentalService\bin\MySql.Data.xml
+C:\Users\kavya\source\repos\New folder\PropertyRentalSystemService\PropertyRentalService\obj\Debug\PropertyRentalService.csproj.CoreCompileInputs.cache
+C:\Users\kavya\source\repos\New folder\PropertyRentalSystemService\PropertyRentalService\obj\Debug\PropertyRentalService.csproj.CopyComplete
+C:\Users\kavya\source\repos\New folder\PropertyRentalSystemService\PropertyRentalService\obj\Debug\PropertyRentalService.dll
+C:\Users\kavya\source\repos\New folder\PropertyRentalSystemService\PropertyRentalService\obj\Debug\PropertyRentalService.pdb

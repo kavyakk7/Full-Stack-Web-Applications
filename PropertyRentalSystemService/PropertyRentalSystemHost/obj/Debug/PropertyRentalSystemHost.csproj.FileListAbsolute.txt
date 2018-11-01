@@ -12,3 +12,17 @@ C:\Users\kavya\source\repos\PropertyRentalSystemService\PropertyRentalSystemHost
 C:\Users\kavya\source\repos\PropertyRentalSystemService\PropertyRentalSystemHost\obj\Debug\PropertyRentalSystemHost.csproj.CopyComplete
 C:\Users\kavya\source\repos\PropertyRentalSystemService\PropertyRentalSystemHost\obj\Debug\PropertyRentalSystemHost.exe
 C:\Users\kavya\source\repos\PropertyRentalSystemService\PropertyRentalSystemHost\obj\Debug\PropertyRentalSystemHost.pdb
+C:\Users\kavya\source\repos\New folder\PropertyRentalSystemService\PropertyRentalSystemHost\bin\Debug\PropertyRentalSystemHost.exe.config
+C:\Users\kavya\source\repos\New folder\PropertyRentalSystemService\PropertyRentalSystemHost\bin\Debug\PropertyRentalSystemHost.exe
+C:\Users\kavya\source\repos\New folder\PropertyRentalSystemService\PropertyRentalSystemHost\bin\Debug\PropertyRentalSystemHost.pdb
+C:\Users\kavya\source\repos\New folder\PropertyRentalSystemService\PropertyRentalSystemHost\bin\Debug\MySql.Data.dll
+C:\Users\kavya\source\repos\New folder\PropertyRentalSystemService\PropertyRentalSystemHost\bin\Debug\PropertyRentalService.dll
+C:\Users\kavya\source\repos\New folder\PropertyRentalSystemService\PropertyRentalSystemHost\bin\Debug\Google.Protobuf.dll
+C:\Users\kavya\source\repos\New folder\PropertyRentalSystemService\PropertyRentalSystemHost\bin\Debug\PropertyRentalService.pdb
+C:\Users\kavya\source\repos\New folder\PropertyRentalSystemService\PropertyRentalSystemHost\bin\Debug\PropertyRentalService.dll.config
+C:\Users\kavya\source\repos\New folder\PropertyRentalSystemService\PropertyRentalSystemHost\bin\Debug\MySql.Data.xml
+C:\Users\kavya\source\repos\New folder\PropertyRentalSystemService\PropertyRentalSystemHost\obj\Debug\PropertyRentalSystemHost.csprojAssemblyReference.cache
+C:\Users\kavya\source\repos\New folder\PropertyRentalSystemService\PropertyRentalSystemHost\obj\Debug\PropertyRentalSystemHost.csproj.CoreCompileInputs.cache
+C:\Users\kavya\source\repos\New folder\PropertyRentalSystemService\PropertyRentalSystemHost\obj\Debug\PropertyRentalSystemHost.csproj.CopyComplete
+C:\Users\kavya\source\repos\New folder\PropertyRentalSystemService\PropertyRentalSystemHost\obj\Debug\PropertyRentalSystemHost.exe
+C:\Users\kavya\source\repos\New folder\PropertyRentalSystemService\PropertyRentalSystemHost\obj\Debug\PropertyRentalSystemHost.pdb

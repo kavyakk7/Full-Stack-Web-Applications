@@ -33,6 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.13.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.ServiceModel" />
@@ -51,9 +52,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PropertyRentalSystemService\PropertyRentalSystemService.csproj">
-      <Project>{cccb5af6-f266-4b96-92bd-d730bd496535}</Project>
-      <Name>PropertyRentalSystemService</Name>
+    <ProjectReference Include="..\PropertyRentalService\PropertyRentalService.csproj">
+      <Project>{cf984c8a-e38a-4055-a563-4f40295cb739}</Project>
+      <Name>PropertyRentalService</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

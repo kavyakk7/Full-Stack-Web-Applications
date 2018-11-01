@@ -1,10 +1,10 @@
-﻿using PropertyRentalSystemService;
+﻿using PropertyRentalService;
 using System;
 using System.ServiceModel;
 
 namespace ClientApp
 {
-    class PropertyRentalSystemProxy: ClientBase<IPropertyRentalSystemService> , IPropertyRentalSystemService
+    class PropertyRentalSystemProxy: ClientBase<IPropertyRentalService> , IPropertyRentalService
     {
         public bool setAddress(string address)
         {

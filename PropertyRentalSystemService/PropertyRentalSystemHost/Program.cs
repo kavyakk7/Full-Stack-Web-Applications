@@ -14,12 +14,12 @@ namespace PropertyRentalSystemHost
                 Uri httpBaseAddress = new Uri("http://localhost:4321/PropertyRentalSystem");
 
                 //Instantiate ServiceHost
-                prsHost = new ServiceHost(typeof(PropertyRentalSystemService.PropertyRentalSystemService), httpBaseAddress);
+                prsHost = new ServiceHost(typeof(PropertyRentalService.PropertyRentalService), httpBaseAddress);
 
                 //Add Endpoint to Host
-                prsHost = new ServiceHost(typeof(PropertyRentalSystemService.PropertyRentalSystemService), httpBaseAddress);
+                prsHost = new ServiceHost(typeof(PropertyRentalService.PropertyRentalService), httpBaseAddress);
 
-                prsHost.AddServiceEndpoint(typeof(PropertyRentalSystemService.IPropertyRentalSystemService),
+                prsHost.AddServiceEndpoint(typeof(PropertyRentalService.IPropertyRentalService),
                                                         new WSHttpBinding(), "");
 
                 //Metadata Exchange

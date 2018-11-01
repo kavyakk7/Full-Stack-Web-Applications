@@ -55,13 +55,13 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PropertyRentalSystemService\PropertyRentalSystemService.csproj">
-      <Project>{CCCB5AF6-F266-4B96-92BD-D730BD496535}</Project>
-      <Name>PropertyRentalSystemService</Name>
-    </ProjectReference>
+    <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <ItemGroup>
-    <WCFMetadata Include="Connected Services\" />
+    <ProjectReference Include="..\PropertyRentalService\PropertyRentalService.csproj">
+      <Project>{cf984c8a-e38a-4055-a563-4f40295cb739}</Project>
+      <Name>PropertyRentalService</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
